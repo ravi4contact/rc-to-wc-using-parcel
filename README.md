@@ -1,7 +1,10 @@
 # rc-to-wc-using-parcel
 react-component-to-web-component-using-parcel
 
-npm install
-sudo npm install -g parcel-bundler
-parcel build src/App.js
-parcel index.html
+npm install/n
+
+sudo npm install -g parcel-bundler/n
+
+parcel build src/App.js/n
+
+parcel index.html/n
